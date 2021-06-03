@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-Update page
+resize images and front page

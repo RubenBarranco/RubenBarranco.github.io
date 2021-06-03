@@ -8,9 +8,9 @@ const RESOURCES = {
 "favicon.ico": "ee63a85ce46c5526467198d28bc6ba7b",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"index.html": "fd0ce48b55bdc87a6fed8f29c5d2f0f4",
-"/": "fd0ce48b55bdc87a6fed8f29c5d2f0f4",
-"main.dart.js": "873ba2ecdde7ef69fde39152d6d39254",
+"index.html": "72dbde85015d03eef05fec941f59747a",
+"/": "72dbde85015d03eef05fec941f59747a",
+"main.dart.js": "aa97560c7f7c6ca2665e5aa830c51c15",
 ".git/FETCH_HEAD": "930b14004033330cfa2b0e78dbed9a18",
 ".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
 ".git/logs/refs/heads/master": "604bb3cee21ce40d5f5fb9f2be0accb4",
@@ -87,7 +87,7 @@ const RESOURCES = {
 ".git/index": "9ce2b2a7b3f6f3d6734e86f5c174e8be",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/AssetManifest.json": "a422c2a349951b587bb0801aea22fe2d",
+"assets/AssetManifest.json": "354dc3b0e76e6f28d364db463d5bb1af",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "c71f2417e695585cd82b5c406f575dc7",
 "assets/assets/images/favicon.jpg": "7d5804bb70bb2d24da8d874a2d241f78",
@@ -97,7 +97,10 @@ const RESOURCES = {
 "assets/assets/images/logo_size.jpg": "8e44336081a64df281a2a5fea2183905",
 "assets/assets/images/2.jpg": "9dad698fada92bb4c3288a46b4cf7022",
 "assets/assets/images/4.jpg": "d45ab0de08928f79cb4aff93cac447ab",
-"assets/assets/images/logo_size_invert.jpg": "ff18c58949c141008d24b9065d07d227"
+"assets/assets/images/logo_size_invert.jpg": "ff18c58949c141008d24b9065d07d227",
+"assets/assets/images/resize3.jpg": "7ec5ef8d32d85c0a44f8a1b500e9fa5c",
+"assets/assets/images/resize4.jpg": "feb6bcc8cf58b3bffea080a1ffe285a4",
+"assets/assets/images/resize2.jpg": "eba88fe8fe8b68f3f817e65cd89658d3"
 };
 
 // The application shell files that are downloaded before a service worker can
