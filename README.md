@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-more resize
+finishing the design
