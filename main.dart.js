@@ -36132,7 +36132,7 @@ return P.a9($async$$0,r)},
 $S:59}
 S.ji.prototype={
 M:function(a,b){var s=null,r=t.F
-return T.co(H.a([T.cC(T.Q(s,s,s),1),T.cC(T.co(H.a([U.k4(100,new L.em("assets/images/logo_size.jpg")),T.Q(s,s,100),D.hr(L.G("Home",s,s,s,A.I(s,s,C.o,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),new S.a3_(b),s),T.Q(s,s,30),new Z.oZ(new S.a30(),L.G("vehiculos",s,s,s,A.I(s,s,C.o,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),new P.m(0,40),s,t.nT),T.Q(s,s,30),N.adv(s,L.oo(C.jC,s),L.G("021-254-5858",s,s,s,s,s,s),new S.a31())],r),C.u,C.bI,C.q),6),T.cC(T.Q(s,s,s),1)],r),C.u,C.v,C.q)}}
+return T.co(H.a([T.cC(T.Q(s,s,s),1),T.cC(T.co(H.a([U.k4(100,new L.em("assets/images/logo_size.jpg")),T.Q(s,s,100),D.hr(L.G("Home",s,s,s,A.I(s,s,C.o,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),new S.a3_(b),s),T.Q(s,s,30),new Z.oZ(new S.a30(),L.G("vehiculos",s,s,s,A.I(s,s,C.o,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),new P.m(0,40),s,t.nT),T.Q(s,s,30),N.adv(s,L.oo(C.jC,s),L.G("919-600-119",s,s,s,s,s,s),new S.a31())],r),C.u,C.bI,C.q),6),T.cC(T.Q(s,s,s),1)],r),C.u,C.v,C.q)}}
 S.a3_.prototype={
 $0:function(){K.hG(this.a,"/",t.X)},
 $S:0}
