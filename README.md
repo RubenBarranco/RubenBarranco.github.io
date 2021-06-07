@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-finishing the design and phone number2
+fixing bugs 2
