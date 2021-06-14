@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-sitemap and resize text
+Fixing names and styles
