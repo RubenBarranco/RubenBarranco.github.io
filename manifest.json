@@ -1,11 +1,11 @@
 {
-    "name": "famz_automotion_web",
-    "short_name": "famz_automotion_web",
+    "name": "Famz Automotion",
+    "short_name": "famz automotion",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Si quieres vender tu vehiculo y no sabes como aqui esta tu sitio. En Famz Automocion podemos ayudarte y darte un precio por tu vehiculo usado. Compramos camiones, coches, tractores y todo tipo de maquinaria.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

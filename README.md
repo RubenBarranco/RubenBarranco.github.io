@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-Fixing names and styles
+Change info on the search
