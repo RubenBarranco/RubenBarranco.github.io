@@ -4,13 +4,13 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "d4095755ca0d9b3ee421f739c79120fe",
-"manifest.json": "460bc64a34d26f964be24b89d29c9912",
+"manifest.json": "a55566078f845291388770c58fa4203c",
 "favicon.ico": "ee63a85ce46c5526467198d28bc6ba7b",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"index.html": "3dbc7687b930b11556e74e63ecf5fd03",
-"/": "3dbc7687b930b11556e74e63ecf5fd03",
-"main.dart.js": "3ed730100db4ab9acf01d94da5cc1dfe",
+"icons/Icon-192.png": "750c928436f3d8578e2ab9dd0a9a6a92",
+"index.html": "02e93c6758e184b1bc987b4ab8839d27",
+"/": "02e93c6758e184b1bc987b4ab8839d27",
+"main.dart.js": "5528dfffaf0c681a964e9a717eded253",
 ".git/FETCH_HEAD": "930b14004033330cfa2b0e78dbed9a18",
 ".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
 ".git/logs/refs/heads/master": "604bb3cee21ce40d5f5fb9f2be0accb4",

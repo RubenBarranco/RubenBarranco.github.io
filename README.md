@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-build update
+main screen update and other features
