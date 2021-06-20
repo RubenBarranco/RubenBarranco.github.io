@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-main screen update and other features
+fixing more the main screen on mobile
