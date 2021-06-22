@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-fixing more the main screen on mobile
+All pages resize in mobile plus sitemap improve
