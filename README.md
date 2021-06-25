@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-Change texts
+Minor changes on text
