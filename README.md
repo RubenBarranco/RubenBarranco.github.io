@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-Minor changes on text
+New design of the front page
