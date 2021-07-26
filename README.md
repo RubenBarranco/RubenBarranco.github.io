@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-Update Web
+All pages updated
