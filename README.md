@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-car update with the sitemap
+fixes on car page, truck text and link to maquinas
