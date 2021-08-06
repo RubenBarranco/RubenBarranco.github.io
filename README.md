@@ -1,2 +1,2 @@
 # RubenBarranco.github.io
-all fixes
+Fixed the names of excavadora and change all the mobile version
