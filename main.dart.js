@@ -37122,21 +37122,22 @@ R.a6j.prototype={
 $1:function(a){return new T.e7(new R.a6i(this.a,a),null)},
 $S:51}
 R.a6i.prototype={
-$1:function(a){var s,r,q,p,o,n=null,m=t.w,l=a.P(m).f
-m=a.P(m).f
+$1:function(a){var s,r,q,p,o,n,m=null,l=t.w,k=a.P(l).f
+l=a.P(l).f
 s=this.b
 r=J.ar(s)
 q=r.h(s,"image")
 q.toString
-m=M.aK(n,R.v1(!1,!0,U.eP(C.j_,n,new L.c6(q)),n,!0,n,n,n,n,n,n,n,n,n,new R.a6h(a,s),n,n,n),n,n,n,n,n,n,m.a.a)
-q=F.aiN(C.a1,1)
-p=r.h(s,"bigtext")
-p.toString
-o=t.p
-q=M.aK(n,T.bd(H.a([new T.cB(new V.X(5,5,5,0),L.k(p,n,n,n,A.B(n,n,C.a0.h(0,400),n,n,n,n,n,n,n,n,9,n,C.aD,n,n,!0,n,n,n,n,n,n,n),C.x,n),n),T.d(n,10,n)],o),C.l,C.bE,C.i),n,n,new S.cs(C.O,n,q,new K.cr(C.S,new P.bM(10,10),C.S,C.S),n,n,C.U),35,n,n,150)
+l=M.aK(m,R.v1(!1,!0,U.eP(C.j_,m,new L.c6(q)),m,!0,m,m,m,m,m,m,m,m,m,new R.a6h(a,s),m,m,m),m,m,m,m,m,m,l.a.a)
+q=J.f(r.h(s,"id"),"4")?50:35
+p=F.aiN(C.a1,1)
+o=r.h(s,"bigtext")
+o.toString
+n=t.p
+q=M.aK(m,T.bd(H.a([new T.cB(new V.X(5,5,5,0),L.k(o,m,m,m,A.B(m,m,C.a0.h(0,400),m,m,m,m,m,m,m,m,9,m,C.aD,m,m,!0,m,m,m,m,m,m,m),C.x,m),m),T.d(m,10,m)],n),C.l,C.bE,C.i),m,m,new S.cs(C.O,m,p,new K.cr(C.S,new P.bM(10,10),C.S,C.S),m,m,C.U),q,m,m,150)
 s=r.h(s,"id")
 s.toString
-return M.aK(n,T.l9(C.bs,H.a([m,new T.eJ(C.iD,n,n,q,n),new T.eJ(C.fi,n,n,T.bd(H.a([T.ah(K.ani(s,this.a.d),C.l,C.bE,C.i)],o),C.l,C.kE,C.i),n)],o),C.bq),n,n,n,n,n,n,l.a.a)},
+return M.aK(m,T.l9(C.bs,H.a([l,new T.eJ(C.iD,m,m,q,m),new T.eJ(C.fi,m,m,T.bd(H.a([T.ah(K.ani(s,this.a.d),C.l,C.bE,C.i)],n),C.l,C.kE,C.i),m)],n),C.bq),m,m,m,m,m,m,k.a.a)},
 $S:124}
 R.a6h.prototype={
 $0:function(){var s=J.b7(this.b,"press")
@@ -37462,7 +37463,7 @@ $S:31}
 M.pa.prototype={
 af:function(){return new M.Lj(C.o)}}
 M.Lj.prototype={
-I:function(a,b){var s,r,q,p,o,n,m,l,k,j=null,i="Para saber mas informaci\xf3n sobre los tipos de vehiculos y modelos puedes pulsar en los botones que hay acontinuaci\xf3n.",h="Camiones",g="Tractores",f="Excavadoras y maquinaria",e=b.P(t.w).f.a,d=X.ko(C.b_,new L.c6("assets/images/documentsphoto.jpg")),c=t.p
+I:function(a,b){var s,r,q,p,o,n,m,l,k,j=null,i="Para saber mas informaci\xf3n sobre los tipos de vehiculos y modelos puedes pulsar en los botones que hay acontinuaci\xf3n.",h="Camiones",g="Tractores",f="Excavadoras y maquinarias",e=b.P(t.w).f.a,d=X.ko(C.b_,new L.c6("assets/images/documentsphoto.jpg")),c=t.p
 d=T.L(T.d(V.on(!0,M.aK(j,M.aK(j,T.bd(H.a([T.d(j,15,j),L.k("Tras rellenar el formulario y tengamos toda la informaci\xf3n:",j,j,j,S.ahj(e),j,j),T.d(j,50,j),T.ah(H.a([T.d(j,j,50),L.hT(C.ce,C.hm,j),L.k("Recibir\xe1s una oferta dentro de las 24 horas.",j,j,j,S.ad8(e),j,j)],c),C.l,C.m,C.i),T.d(j,20,j),T.ah(H.a([T.d(j,j,50),L.hT(C.ce,C.hm,j),L.k(u.A,j,j,j,S.ad8(e),j,j)],c),C.l,C.m,C.i),T.d(j,20,j),T.ah(H.a([T.d(j,j,50),L.hT(C.ce,C.hm,j),L.k(u.y,j,j,j,S.ad8(e),j,j)],c),C.l,C.m,C.i)],c),C.l,C.bE,C.i),C.nT,j,j,j,j,j,j),j,j,new S.cs(j,d,j,j,j,j,C.U),j,j,j,j),j,10,j,j),500,j),8)
 s=T.L(T.d(j,j,j),1)
 r=C.a_.h(0,200)
